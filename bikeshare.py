@@ -225,7 +225,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
         
-        raw_data=input('Would you like to see 5 rows of this as raw data?')
+        raw_data=input('Would you like to see 5 rows of raw data based on your input?')
         current_row=0
         while raw_data.lower() != 'no':
             print(df.iloc[current_row:current_row+5])
