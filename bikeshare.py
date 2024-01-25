@@ -25,7 +25,7 @@ def get_filters():
         if city in valid:
             break             
         else:
-            print("Please Enter another City")     
+            print("Please Enter 'washington', 'new york city', or 'chicago'")     
 
             
     while True:
