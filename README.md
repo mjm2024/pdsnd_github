@@ -14,13 +14,13 @@ washington.csv, new_york_city.csv and chicago.csv were all files that were used 
 
 
 ### Credits
-Sources:
-[1.]: https://docs.python.org/3/tutorial/controlflow.html?highlight=keyword "While Loop Source"
-[2.]: https://knowledge.udacity.com/questions/582141 "While Loop Source 2"
-[3.]: https://saturncloud.io/blog/how-to-combine-two-columns-in-a-pandas-dataframe/ "Combining Columns Source 1"
-[4.]: https://stackoverflow.com/questions/20025882/add-a-string-prefix-to-each-value-in-a-pandas-string-column "Combining Columns Source 2"
-[5.]: https://stackoverflow.com/questions/60880126/pandas-dealing-with-missing-column-in-input-dataframe "Missing Column Source"
-[6.]: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html "Raw Data Source"
+Sources:  
+[1.]: https://docs.python.org/3/tutorial/controlflow.html?highlight=keyword "While Loop Source"  
+[2.]: https://knowledge.udacity.com/questions/582141 "While Loop Source 2"  
+[3.]: https://saturncloud.io/blog/how-to-combine-two-columns-in-a-pandas-dataframe/ "Combining Columns Source 1"  
+[4.]: https://stackoverflow.com/questions/20025882/add-a-string-prefix-to-each-value-in-a-pandas-string-column "Combining Columns Source 2"  
+[5.]: https://stackoverflow.com/questions/60880126/pandas-dealing-with-missing-column-in-input-dataframe "Missing Column Source"  
+[6.]: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html "Raw Data Source"  
 
 
 
